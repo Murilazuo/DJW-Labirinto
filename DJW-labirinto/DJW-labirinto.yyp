@@ -1,6 +1,18 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"player_spr","path":"sprites/player_spr/player_spr.yy",},"order":0,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
+    {"id":{"name":"wall_spr","path":"sprites/wall_spr/wall_spr.yy",},"order":1,},
+    {"id":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"order":0,},
+    {"id":{"name":"playButton_obj","path":"objects/playButton_obj/playButton_obj.yy",},"order":4,},
+    {"id":{"name":"button_spr","path":"sprites/button_spr/button_spr.yy",},"order":3,},
+    {"id":{"name":"gameStart_obj","path":"objects/gameStart_obj/gameStart_obj.yy",},"order":3,},
+    {"id":{"name":"wall_obj","path":"objects/wall_obj/wall_obj.yy",},"order":1,},
+    {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":2,},
+    {"id":{"name":"door1_obj","path":"objects/door1_obj/door1_obj.yy",},"order":2,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":4,},
+    {"id":{"name":"door_spr","path":"sprites/door_spr/door_spr.yy",},"order":2,},
+    {"id":{"name":"Hub","path":"rooms/Hub/Hub.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -14,6 +26,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
+    {"roomId":{"name":"Hub","path":"rooms/Hub/Hub.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
