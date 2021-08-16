@@ -17,3 +17,9 @@ global.diamond = 0;
 /// @DnDArgument : "value" "3"
 /// @DnDArgument : "var" "life"
 global.life = 3;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 6867AEBD
+/// @DnDArgument : "var" "key"
+global.key = 0;
