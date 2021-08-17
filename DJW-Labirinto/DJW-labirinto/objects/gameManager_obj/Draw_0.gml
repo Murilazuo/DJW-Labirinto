@@ -50,9 +50,9 @@ if(global.key > 0)
 	/// @DnDParent : 6A9BCEB7
 	/// @DnDArgument : "x" "50"
 	/// @DnDArgument : "y" "130"
-	/// @DnDArgument : "sprite" "Key_blue_spr"
-	/// @DnDSaveInfo : "sprite" "Key_blue_spr"
-	draw_sprite(Key_blue_spr, 0, 50, 130);
+	/// @DnDArgument : "sprite" "keyGreen_spr"
+	/// @DnDSaveInfo : "sprite" "keyGreen_spr"
+	draw_sprite(keyGreen_spr, 0, 50, 130);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -69,9 +69,9 @@ if(global.key > 1)
 	/// @DnDParent : 19C26E86
 	/// @DnDArgument : "x" "100"
 	/// @DnDArgument : "y" "130"
-	/// @DnDArgument : "sprite" "Key_red_spr"
-	/// @DnDSaveInfo : "sprite" "Key_red_spr"
-	draw_sprite(Key_red_spr, 0, 100, 130);
+	/// @DnDArgument : "sprite" "keyYellow_spr"
+	/// @DnDSaveInfo : "sprite" "keyYellow_spr"
+	draw_sprite(keyYellow_spr, 0, 100, 130);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -88,7 +88,7 @@ if(global.key > 2)
 	/// @DnDParent : 06BE49CE
 	/// @DnDArgument : "x" "150"
 	/// @DnDArgument : "y" "130"
-	/// @DnDArgument : "sprite" "Key_green_spr"
-	/// @DnDSaveInfo : "sprite" "Key_green_spr"
-	draw_sprite(Key_green_spr, 0, 150, 130);
+	/// @DnDArgument : "sprite" "keyRed_spr"
+	/// @DnDSaveInfo : "sprite" "keyRed_spr"
+	draw_sprite(keyRed_spr, 0, 150, 130);
 }

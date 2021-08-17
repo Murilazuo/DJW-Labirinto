@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Key_red_spr",
-    "path": "sprites/Key_red_spr/Key_red_spr.yy",
+    "name": "keyRed_spr",
+    "path": "sprites/keyRed_spr/keyRed_spr.yy",
   },
   "solid": false,
   "visible": true,
