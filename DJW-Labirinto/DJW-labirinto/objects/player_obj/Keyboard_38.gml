@@ -15,6 +15,6 @@ if(place_snapped(32,32))
 	/// @DnDVersion : 1
 	/// @DnDHash : 2E1B01B9
 	/// @DnDParent : 336B2F11
-	/// @DnDArgument : "speed" "4"
-	speed = 4;
+	/// @DnDArgument : "speed" "global.speed"
+	speed = global.speed;
 }
