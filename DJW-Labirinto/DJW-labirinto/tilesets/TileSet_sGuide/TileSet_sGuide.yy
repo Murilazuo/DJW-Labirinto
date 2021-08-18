@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "tilesetStructure24",
-    "path": "sprites/tilesetStructure24/tilesetStructure24.yy",
+    "name": "tilesetStructureGuide25",
+    "path": "sprites/tilesetStructureGuide25/tilesetStructureGuide25.yy",
   },
   "tileWidth": 64,
   "tileHeight": 64,
@@ -71,7 +71,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "TileSet_structures",
+  "name": "TileSet_sGuide",
   "tags": [],
   "resourceType": "GMTileSet",
 }
