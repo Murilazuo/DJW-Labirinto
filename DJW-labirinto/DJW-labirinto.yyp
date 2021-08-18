@@ -21,6 +21,7 @@
     {"id":{"name":"gameStart_obj","path":"objects/gameStart_obj/gameStart_obj.yy",},"order":3,},
     {"id":{"name":"wall_obj","path":"objects/wall_obj/wall_obj.yy",},"order":1,},
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":2,},
+<<<<<<< Updated upstream:DJW-labirinto/DJW-labirinto.yyp
     {"id":{"name":"door1_obj","path":"objects/door1_obj/door1_obj.yy",},"order":2,},
     {"id":{"name":"Key_green_spr","path":"sprites/Key_green_spr/Key_green_spr.yy",},"order":11,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":4,},
@@ -31,6 +32,22 @@
     {"id":{"name":"life_icon_spr","path":"sprites/life_icon_spr/life_icon_spr.yy",},"order":7,},
     {"id":{"name":"door3_obj","path":"objects/door3_obj/door3_obj.yy",},"order":8,},
     {"id":{"name":"door2_obj","path":"objects/door2_obj/door2_obj.yy",},"order":7,},
+=======
+    {"id":{"name":"door1_obj","path":"objects/door1_obj/door1_obj.yy",},"order":0,},
+    {"id":{"name":"ChaoQCai_obj","path":"objects/ChaoQCai_obj/ChaoQCai_obj.yy",},"order":19,},
+    {"id":{"name":"manager_spr","path":"sprites/manager_spr/manager_spr.yy",},"order":4,},
+    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},"order":17,},
+    {"id":{"name":"TileSet_structures","path":"tilesets/TileSet_structures/TileSet_structures.yy",},"order":2,},
+    {"id":{"name":"tilesetStructureGuide25","path":"sprites/tilesetStructureGuide25/tilesetStructureGuide25.yy",},"order":19,},
+    {"id":{"name":"key_red_obj","path":"objects/key_red_obj/key_red_obj.yy",},"order":1,},
+    {"id":{"name":"door_spr","path":"sprites/door_spr/door_spr.yy",},"order":2,},
+    {"id":{"name":"life_icon_spr","path":"sprites/life_icon_spr/life_icon_spr.yy",},"order":6,},
+    {"id":{"name":"door3_obj","path":"objects/door3_obj/door3_obj.yy",},"order":2,},
+    {"id":{"name":"door2_obj","path":"objects/door2_obj/door2_obj.yy",},"order":1,},
+    {"id":{"name":"Arial","path":"fonts/Arial/Arial.yy",},"order":0,},
+    {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"order":15,},
+    {"id":{"name":"tilesetDecor","path":"sprites/tilesetDecor/tilesetDecor.yy",},"order":15,},
+>>>>>>> Stashed changes:DJW-Labirinto/DJW-labirinto/DJW-labirinto.yyp
     {"id":{"name":"Hub","path":"rooms/Hub/Hub.yy",},"order":0,},
   ],
   "Options": [
