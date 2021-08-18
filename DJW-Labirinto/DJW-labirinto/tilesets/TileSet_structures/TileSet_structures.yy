@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "tileset",
-    "path": "sprites/tileset/tileset.yy",
+    "name": "tilesetStructure",
+    "path": "sprites/tilesetStructure/tilesetStructure.yy",
   },
   "tileWidth": 64,
   "tileHeight": 64,
@@ -17,7 +17,7 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "out_columns": 5,
-  "tile_count": 24,
+  "tile_count": 28,
   "autoTileSets": [],
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
@@ -47,6 +47,10 @@
       21,
       22,
       23,
+      24,
+      25,
+      26,
+      27,
     ],
     "SerialiseFrameCount": 1,
   },
@@ -60,7 +64,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "TileSet1",
+  "name": "TileSet_structures",
   "tags": [],
   "resourceType": "GMTileSet",
 }
