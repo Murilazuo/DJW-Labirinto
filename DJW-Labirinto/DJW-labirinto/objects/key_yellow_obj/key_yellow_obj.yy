@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Keys",
+    "path": "folders/Objects/Keys.yy",
   },
   "resourceVersion": "1.0",
   "name": "key_yellow_obj",

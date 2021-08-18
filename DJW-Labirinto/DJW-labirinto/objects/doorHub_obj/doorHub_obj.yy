@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "MainDoors",
+    "path": "folders/Objects/MainDoors.yy",
   },
   "resourceVersion": "1.0",
   "name": "doorHub_obj",
