@@ -3,37 +3,18 @@
 /// @DnDHash : 221CEDED
 draw_self();
 
-/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
-/// @DnDVersion : 1
-/// @DnDHash : 400AAD99
-/// @DnDArgument : "x" "50"
-/// @DnDArgument : "y" "80"
-/// @DnDArgument : "sprite" "diamond_Icon_spr"
-/// @DnDSaveInfo : "sprite" "diamond_Icon_spr"
-draw_sprite(diamond_Icon_spr, 0, 50, 80);
-
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
-/// @DnDVersion : 1
-/// @DnDHash : 01A81FFB
-/// @DnDArgument : "x" "90"
-/// @DnDArgument : "y" "90"
-/// @DnDArgument : "caption" ""
-/// @DnDArgument : "var" "global.diamond"
-draw_text(90, 90,  + string(global.diamond));
-
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
 /// @DnDVersion : 1
 /// @DnDHash : 1E846AAC
 /// @DnDArgument : "x" "50"
 /// @DnDArgument : "y" "50"
-/// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "sprite" "life_icon_spr"
 /// @DnDArgument : "number" "global.life"
 /// @DnDSaveInfo : "sprite" "life_icon_spr"
 var l1E846AAC_0 = sprite_get_width(life_icon_spr);
 var l1E846AAC_1 = 0;
 for(var l1E846AAC_2 = global.life; l1E846AAC_2 > 0; --l1E846AAC_2) {
-	draw_sprite(life_icon_spr, 0, 50 + l1E846AAC_1, y + 50);
+	draw_sprite(life_icon_spr, 0, 50 + l1E846AAC_1, 50);
 	l1E846AAC_1 += l1E846AAC_0;
 }
 

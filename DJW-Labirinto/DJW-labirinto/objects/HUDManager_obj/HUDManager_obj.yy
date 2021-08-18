@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite4",
-    "path": "sprites/Sprite4/Sprite4.yy",
+    "name": "manager_spr",
+    "path": "sprites/manager_spr/manager_spr.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,11 +26,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Manager",
+    "path": "folders/Objects/Manager.yy",
   },
   "resourceVersion": "1.0",
-  "name": "gameManager_obj",
+  "name": "HUDManager_obj",
   "tags": [],
   "resourceType": "GMObject",
 }
