@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 447,
-  "bbox_top": 0,
-  "bbox_bottom": 319,
+  "bbox_left": 14,
+  "bbox_right": 49,
+  "bbox_top": 22,
+  "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 448,
-  "height": 320,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"19d500fe-23f6-4290-bcce-58c9b35721aa","path":"sprites/tilesetStructure24/tilesetStructure24.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"19d500fe-23f6-4290-bcce-58c9b35721aa","path":"sprites/tilesetStructure24/tilesetStructure24.yy",},"LayerId":{"name":"dd66db13-0842-467d-96ea-fdb72858654b","path":"sprites/tilesetStructure24/tilesetStructure24.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"tilesetStructure24","path":"sprites/tilesetStructure24/tilesetStructure24.yy",},"resourceVersion":"1.0","name":"19d500fe-23f6-4290-bcce-58c9b35721aa","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4dad3286-7c37-4440-9486-eea2bf8824b3","path":"sprites/door_front_spr/door_front_spr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4dad3286-7c37-4440-9486-eea2bf8824b3","path":"sprites/door_front_spr/door_front_spr.yy",},"LayerId":{"name":"b37d0b3c-8ebf-4517-bd9e-f6fb388a9849","path":"sprites/door_front_spr/door_front_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"door_front_spr","path":"sprites/door_front_spr/door_front_spr.yy",},"resourceVersion":"1.0","name":"4dad3286-7c37-4440-9486-eea2bf8824b3","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"tilesetStructure24","path":"sprites/tilesetStructure24/tilesetStructure24.yy",},
+    "spriteId": {"name":"door_front_spr","path":"sprites/door_front_spr/door_front_spr.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"27882591-4d86-4b08-8601-4dcc52ef071e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"19d500fe-23f6-4290-bcce-58c9b35721aa","path":"sprites/tilesetStructure24/tilesetStructure24.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8f2fbd9d-380a-43ac-b5c9-5a5f67b5d1f9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4dad3286-7c37-4440-9486-eea2bf8824b3","path":"sprites/door_front_spr/door_front_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"tilesetStructure24","path":"sprites/tilesetStructure24/tilesetStructure24.yy",},
+    "parent": {"name":"door_front_spr","path":"sprites/door_front_spr/door_front_spr.yy",},
     "resourceVersion": "1.3",
-    "name": "tilesetStructure24",
+    "name": "door_front_spr",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"dd66db13-0842-467d-96ea-fdb72858654b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b37d0b3c-8ebf-4517-bd9e-f6fb388a9849","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "tilesetStructure24",
+  "name": "door_front_spr",
   "tags": [],
   "resourceType": "GMSprite",
 }
