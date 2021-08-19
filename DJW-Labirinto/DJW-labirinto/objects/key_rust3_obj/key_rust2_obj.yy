@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "keyGreen_spr",
-    "path": "sprites/keyGreen_spr/keyGreen_spr.yy",
+    "name": "KeyRust_spr",
+    "path": "sprites/KeyRust_spr/KeyRust_spr.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,10 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +28,7 @@
     "path": "folders/Objects/Keys.yy",
   },
   "resourceVersion": "1.0",
-  "name": "key_green_obj",
+  "name": "key_rust2_obj",
   "tags": [],
   "resourceType": "GMObject",
 }
