@@ -1,13 +1,15 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 532AF55A
-/// @DnDArgument : "var" "RoomText"
-RoomText = 0;
+/// @DnDHash : 4544543F
+/// @DnDArgument : "code" "desenhar = true;$(13_10)"
+desenhar = true;
 
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 24C11B5C
-draw_set_font(noone);
+/// @DnDArgument : "font" "Arial"
+/// @DnDSaveInfo : "font" "Arial"
+draw_set_font(Arial);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
@@ -17,17 +19,8 @@ draw_set_font(noone);
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
-/// @DnDVersion : 1
-/// @DnDHash : 1F775D3C
-/// @DnDArgument : "x" "650"
-/// @DnDArgument : "y" "650"
-/// @DnDArgument : "caption" ""Sala do Chão que cai""
-/// @DnDArgument : "var" "RoomText"
-draw_text(650, 650, string("Sala do Chão que cai") + string(RoomText));
-
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 6F70BEA7
-/// @DnDArgument : "steps" "2"
-alarm_set(0, 2);
+/// @DnDArgument : "steps" "150"
+alarm_set(0, 150);

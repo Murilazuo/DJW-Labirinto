@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "manager_spr",
-    "path": "sprites/manager_spr/manager_spr.yy",
+    "name": "ChaoqCai_spr",
+    "path": "sprites/ChaoqCai_spr/ChaoqCai_spr.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,16 +23,16 @@
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Manager",
-    "path": "folders/Objects/Manager.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "roomManager_obj",
+  "name": "chaoQCai",
   "tags": [],
   "resourceType": "GMObject",
 }
