@@ -1,4 +1,5 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 6FC47D12
-variable = 0;
+/// @DnDHash : 3DF7DBAB
+/// @DnDArgument : "code" "desenhar = false;"
+desenhar = false;
