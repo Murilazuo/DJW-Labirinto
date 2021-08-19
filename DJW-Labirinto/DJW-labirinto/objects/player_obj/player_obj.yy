@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "mainChar",
-    "path": "sprites/mainChar/mainChar.yy",
+    "name": "mainChar_spr",
+    "path": "sprites/mainChar_spr/mainChar_spr.yy",
   },
   "solid": true,
   "visible": true,
