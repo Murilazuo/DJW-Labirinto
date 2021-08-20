@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 447,
+  "bbox_right": 63,
   "bbox_top": 0,
-  "bbox_bottom": 319,
+  "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 448,
-  "height": 320,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b004a328-41e1-4e60-8fa9-0c40297f0af6","path":"sprites/tilesetStructure/tilesetStructure.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b004a328-41e1-4e60-8fa9-0c40297f0af6","path":"sprites/tilesetStructure/tilesetStructure.yy",},"LayerId":{"name":"b97c2d55-d92e-4739-8515-b08400c3ce98","path":"sprites/tilesetStructure/tilesetStructure.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"tilesetStructure","path":"sprites/tilesetStructure/tilesetStructure.yy",},"resourceVersion":"1.0","name":"b004a328-41e1-4e60-8fa9-0c40297f0af6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0d66b359-f995-4ed9-b50e-c453145a91db","path":"sprites/Crack_Down1/Crack_Down1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0d66b359-f995-4ed9-b50e-c453145a91db","path":"sprites/Crack_Down1/Crack_Down1.yy",},"LayerId":{"name":"b0151b39-17b9-4f1b-acff-475aae121b5e","path":"sprites/Crack_Down1/Crack_Down1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Crack_Down1","path":"sprites/Crack_Down1/Crack_Down1.yy",},"resourceVersion":"1.0","name":"0d66b359-f995-4ed9-b50e-c453145a91db","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"tilesetStructure","path":"sprites/tilesetStructure/tilesetStructure.yy",},
+    "spriteId": {"name":"Crack_Down1","path":"sprites/Crack_Down1/Crack_Down1.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"4bc2265e-b427-4b15-994f-496d4d6c847b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b004a328-41e1-4e60-8fa9-0c40297f0af6","path":"sprites/tilesetStructure/tilesetStructure.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"40b66e77-a56c-4056-8c81-d670f7ff8bbd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0d66b359-f995-4ed9-b50e-c453145a91db","path":"sprites/Crack_Down1/Crack_Down1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"tilesetStructure","path":"sprites/tilesetStructure/tilesetStructure.yy",},
+    "parent": {"name":"Crack_Down1","path":"sprites/Crack_Down1/Crack_Down1.yy",},
     "resourceVersion": "1.3",
-    "name": "tilesetStructure",
+    "name": "Crack_Down1",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b97c2d55-d92e-4739-8515-b08400c3ce98","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b0151b39-17b9-4f1b-acff-475aae121b5e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Hazards",
+    "path": "folders/Sprites/Hazards.yy",
   },
   "resourceVersion": "1.0",
-  "name": "tilesetStructure",
+  "name": "Crack_Down1",
   "tags": [],
   "resourceType": "GMSprite",
 }
