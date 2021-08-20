@@ -32,6 +32,7 @@
     {"id":{"name":"door4_obj","path":"objects/door4_obj/door4_obj.yy",},"order":3,},
     {"id":{"name":"tilesetStructure_spr","path":"sprites/tilesetStructure_spr/tilesetStructure_spr.yy",},"order":15,},
     {"id":{"name":"Crack_Left_SSide_spr","path":"sprites/Crack_Left_SSide_spr/Crack_Left_SSide_spr.yy",},"order":4,},
+    {"id":{"name":"dark_spr","path":"sprites/dark_spr/dark_spr.yy",},"order":18,},
     {"id":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"order":0,},
     {"id":{"name":"total_fallingHazard_obj","path":"objects/total_fallingHazard_obj/total_fallingHazard_obj.yy",},"order":4,},
     {"id":{"name":"playButton_obj","path":"objects/playButton_obj/playButton_obj.yy",},"order":4,},
