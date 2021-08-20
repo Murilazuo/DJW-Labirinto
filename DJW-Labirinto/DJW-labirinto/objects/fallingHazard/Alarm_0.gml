@@ -8,7 +8,7 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 0841E3D0
-/// @DnDArgument : "spriteind" "Crack_mid"
-/// @DnDSaveInfo : "spriteind" "Crack_mid"
-sprite_index = Crack_mid;
+/// @DnDArgument : "spriteind" "ChaoCaido_spr"
+/// @DnDSaveInfo : "spriteind" "ChaoCaido_spr"
+sprite_index = ChaoCaido_spr;
 image_index = 0;

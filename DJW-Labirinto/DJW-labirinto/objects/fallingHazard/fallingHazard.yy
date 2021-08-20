@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "FallHazar_mid",
-    "path": "sprites/FallHazar_mid/FallHazar_mid.yy",
+    "name": "ChaoqCai_spr",
+    "path": "sprites/ChaoqCai_spr/ChaoqCai_spr.yy",
   },
   "solid": false,
   "visible": true,
