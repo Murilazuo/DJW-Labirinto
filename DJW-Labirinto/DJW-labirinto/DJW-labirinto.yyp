@@ -1,7 +1,6 @@
 {
   "resources": [
     {"id":{"name":"keyRed_spr","path":"sprites/keyRed_spr/keyRed_spr.yy",},"order":13,},
-    {"id":{"name":"tileset","path":"sprites/tileset/tileset.yy",},"order":10,},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":6,},
     {"id":{"name":"roomManager_obj","path":"objects/roomManager_obj/roomManager_obj.yy",},"order":2,},
     {"id":{"name":"player_spr","path":"sprites/player_spr/player_spr.yy",},"order":0,},
@@ -14,7 +13,6 @@
     {"id":{"name":"keyGreen_spr","path":"sprites/keyGreen_spr/keyGreen_spr.yy",},"order":12,},
     {"id":{"name":"wall_spr","path":"sprites/wall_spr/wall_spr.yy",},"order":1,},
     {"id":{"name":"key_green_obj","path":"objects/key_green_obj/key_green_obj.yy",},"order":0,},
-    {"id":{"name":"tilesetStructure24","path":"sprites/tilesetStructure24/tilesetStructure24.yy",},"order":18,},
     {"id":{"name":"mainChar","path":"sprites/mainChar/mainChar.yy",},"order":9,},
     {"id":{"name":"key_rust3_obj","path":"objects/key_rust3_obj/key_rust3_obj.yy",},"order":6,},
     {"id":{"name":"KeyRust_spr","path":"sprites/KeyRust_spr/KeyRust_spr.yy",},"order":14,},
@@ -37,7 +35,6 @@
     {"id":{"name":"door1_obj","path":"objects/door1_obj/door1_obj.yy",},"order":0,},
     {"id":{"name":"manager_spr","path":"sprites/manager_spr/manager_spr.yy",},"order":4,},
     {"id":{"name":"TileSet_structures","path":"tilesets/TileSet_structures/TileSet_structures.yy",},"order":2,},
-    {"id":{"name":"tilesetStructureGuide25","path":"sprites/tilesetStructureGuide25/tilesetStructureGuide25.yy",},"order":19,},
     {"id":{"name":"key_red_obj","path":"objects/key_red_obj/key_red_obj.yy",},"order":1,},
     {"id":{"name":"Arial","path":"fonts/Arial/Arial.yy",},"order":0,},
     {"id":{"name":"door_spr","path":"sprites/door_spr/door_spr.yy",},"order":2,},
@@ -46,7 +43,6 @@
     {"id":{"name":"door3_obj","path":"objects/door3_obj/door3_obj.yy",},"order":2,},
     {"id":{"name":"door2_obj","path":"objects/door2_obj/door2_obj.yy",},"order":1,},
     {"id":{"name":"key_rust5_obj","path":"objects/key_rust5_obj/key_rust5_obj.yy",},"order":7,},
-    {"id":{"name":"tilesetDecor","path":"sprites/tilesetDecor/tilesetDecor.yy",},"order":15,},
     {"id":{"name":"Hub","path":"rooms/Hub/Hub.yy",},"order":0,},
   ],
   "Options": [

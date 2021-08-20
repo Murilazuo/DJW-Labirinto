@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "tilesetStructureGuide25",
-    "path": "sprites/tilesetStructureGuide25/tilesetStructureGuide25.yy",
-  },
+  "spriteId": null,
   "tileWidth": 64,
   "tileHeight": 64,
   "tilexoff": 0,

@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "tilesetDecor",
-    "path": "sprites/tilesetDecor/tilesetDecor.yy",
-  },
+  "spriteId": null,
   "tileWidth": 64,
   "tileHeight": 64,
   "tilexoff": 0,
