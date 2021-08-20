@@ -7,9 +7,9 @@ desenhar = true;
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 24C11B5C
-/// @DnDArgument : "font" "Arial"
-/// @DnDSaveInfo : "font" "Arial"
-draw_set_font(Arial);
+/// @DnDArgument : "font" "_8bit_Limit"
+/// @DnDSaveInfo : "font" "_8bit_Limit"
+draw_set_font(_8bit_Limit);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
@@ -22,5 +22,5 @@ draw_set_valign(fa_middle);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 6F70BEA7
-/// @DnDArgument : "steps" "150"
-alarm_set(0, 150);
+/// @DnDArgument : "steps" "200"
+alarm_set(0, 200);

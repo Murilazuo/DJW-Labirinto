@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4dad3286-7c37-4440-9486-eea2bf8824b3","path":"sprites/door_front_spr/door_front_spr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4dad3286-7c37-4440-9486-eea2bf8824b3","path":"sprites/door_front_spr/door_front_spr.yy",},"LayerId":{"name":"b37d0b3c-8ebf-4517-bd9e-f6fb388a9849","path":"sprites/door_front_spr/door_front_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"door_front_spr","path":"sprites/door_front_spr/door_front_spr.yy",},"resourceVersion":"1.0","name":"4dad3286-7c37-4440-9486-eea2bf8824b3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"aecdec80-b008-46e3-90a9-f8de74d49fe1","path":"sprites/doorFront_spr/doorFront_spr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"aecdec80-b008-46e3-90a9-f8de74d49fe1","path":"sprites/doorFront_spr/doorFront_spr.yy",},"LayerId":{"name":"11dfee08-fef4-4339-ade8-ec5c8afea046","path":"sprites/doorFront_spr/doorFront_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"doorFront_spr","path":"sprites/doorFront_spr/doorFront_spr.yy",},"resourceVersion":"1.0","name":"aecdec80-b008-46e3-90a9-f8de74d49fe1","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"door_front_spr","path":"sprites/door_front_spr/door_front_spr.yy",},
+    "spriteId": {"name":"doorFront_spr","path":"sprites/doorFront_spr/doorFront_spr.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"8f2fbd9d-380a-43ac-b5c9-5a5f67b5d1f9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4dad3286-7c37-4440-9486-eea2bf8824b3","path":"sprites/door_front_spr/door_front_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2e153011-9ea5-4e9f-97f9-4467ce6091bb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"aecdec80-b008-46e3-90a9-f8de74d49fe1","path":"sprites/doorFront_spr/doorFront_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"door_front_spr","path":"sprites/door_front_spr/door_front_spr.yy",},
+    "parent": {"name":"doorFront_spr","path":"sprites/doorFront_spr/doorFront_spr.yy",},
     "resourceVersion": "1.3",
-    "name": "door_front_spr",
+    "name": "doorFront_spr",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b37d0b3c-8ebf-4517-bd9e-f6fb388a9849","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"11dfee08-fef4-4339-ade8-ec5c8afea046","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "door_front_spr",
+  "name": "doorFront_spr",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 64,
-  "bbox_right": 425,
+  "bbox_right": 567,
   "bbox_top": 12,
-  "bbox_bottom": 63,
+  "bbox_bottom": 127,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "width": 576,
-  "height": 64,
+  "height": 128,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4dad3286-7c37-4440-9486-eea2bf8824b3","path":"sprites/tileset_decor_spr/tileset_decor_spr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4dad3286-7c37-4440-9486-eea2bf8824b3","path":"sprites/tileset_decor_spr/tileset_decor_spr.yy",},"LayerId":{"name":"b37d0b3c-8ebf-4517-bd9e-f6fb388a9849","path":"sprites/tileset_decor_spr/tileset_decor_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"tileset_decor_spr","path":"sprites/tileset_decor_spr/tileset_decor_spr.yy",},"resourceVersion":"1.0","name":"4dad3286-7c37-4440-9486-eea2bf8824b3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"796a977d-f948-470a-9108-50c616257afa","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"796a977d-f948-470a-9108-50c616257afa","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"LayerId":{"name":"b0d93a1e-b281-47c5-b196-45b8cb0b82a1","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"tilesetDecor_spr","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"resourceVersion":"1.0","name":"796a977d-f948-470a-9108-50c616257afa","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"tileset_decor_spr","path":"sprites/tileset_decor_spr/tileset_decor_spr.yy",},
+    "spriteId": {"name":"tilesetDecor_spr","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c9eee39d-da5c-4143-824e-b1f79f1e4f53","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4dad3286-7c37-4440-9486-eea2bf8824b3","path":"sprites/tileset_decor_spr/tileset_decor_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"39be759b-fd5b-4217-9ebe-2ec6e7b76829","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"796a977d-f948-470a-9108-50c616257afa","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"tileset_decor_spr","path":"sprites/tileset_decor_spr/tileset_decor_spr.yy",},
+    "parent": {"name":"tilesetDecor_spr","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},
     "resourceVersion": "1.3",
-    "name": "tileset_decor_spr",
+    "name": "tilesetDecor_spr",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b37d0b3c-8ebf-4517-bd9e-f6fb388a9849","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b0d93a1e-b281-47c5-b196-45b8cb0b82a1","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "tileset_decor_spr",
+  "name": "tilesetDecor_spr",
   "tags": [],
   "resourceType": "GMSprite",
 }
