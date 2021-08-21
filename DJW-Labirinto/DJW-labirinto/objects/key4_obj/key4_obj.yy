@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "keyRed_spr",
-    "path": "sprites/keyRed_spr/keyRed_spr.yy",
+    "name": "key4_spr",
+    "path": "sprites/key4_spr/key4_spr.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Keys.yy",
   },
   "resourceVersion": "1.0",
-  "name": "key_red_obj",
+  "name": "key4_obj",
   "tags": [],
   "resourceType": "GMObject",
 }

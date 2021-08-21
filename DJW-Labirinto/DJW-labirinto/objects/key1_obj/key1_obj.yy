@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "keyGreen_spr",
-    "path": "sprites/keyGreen_spr/keyGreen_spr.yy",
+    "name": "key1_spr",
+    "path": "sprites/key1_spr/key1_spr.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Keys.yy",
   },
   "resourceVersion": "1.0",
-  "name": "key_green_obj",
+  "name": "key1_obj",
   "tags": [],
   "resourceType": "GMObject",
 }

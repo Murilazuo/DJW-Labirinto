@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Key",
+    "path": "folders/Sprites/Key.yy",
   },
   "resourceVersion": "1.0",
   "name": "KeyRust_spr",
