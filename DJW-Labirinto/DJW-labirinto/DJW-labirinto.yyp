@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":8,},
     {"id":{"name":"key3_spr","path":"sprites/key3_spr/key3_spr.yy",},"order":2,},
     {"id":{"name":"tileset","path":"sprites/tileset/tileset.yy",},"order":6,},
     {"id":{"name":"roomManager_obj","path":"objects/roomManager_obj/roomManager_obj.yy",},"order":2,},
@@ -27,7 +28,6 @@
     {"id":{"name":"safeS_fallingHazard_obj","path":"objects/safeS_fallingHazard_obj/safeS_fallingHazard_obj.yy",},"order":1,},
     {"id":{"name":"Bit_m_Gothic","path":"fonts/Bit_m_Gothic/Bit_m_Gothic.yy",},"order":2,},
     {"id":{"name":"key_rust1_obj","path":"objects/key_rust1_obj/key_rust1_obj.yy",},"order":2,},
-    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":8,},
     {"id":{"name":"key_rust2_obj","path":"objects/key_rust2_obj/key_rust2_obj.yy",},"order":4,},
     {"id":{"name":"sencond_doorFront_obj","path":"objects/sencond_doorFront_obj/sencond_doorFront_obj.yy",},"order":21,},
     {"id":{"name":"key4_obj","path":"objects/key4_obj/key4_obj.yy",},"order":8,},
@@ -36,6 +36,7 @@
     {"id":{"name":"Crack_Left_SSide_spr","path":"sprites/Crack_Left_SSide_spr/Crack_Left_SSide_spr.yy",},"order":4,},
     {"id":{"name":"dark_spr","path":"sprites/dark_spr/dark_spr.yy",},"order":18,},
     {"id":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"order":0,},
+    {"id":{"name":"safeN_fallingHazard_obj_1","path":"objects/safeN_fallingHazard_obj_1/safeN_fallingHazard_obj_1.yy",},"order":5,},
     {"id":{"name":"total_fallingHazard_obj","path":"objects/total_fallingHazard_obj/total_fallingHazard_obj.yy",},"order":4,},
     {"id":{"name":"playButton_obj","path":"objects/playButton_obj/playButton_obj.yy",},"order":4,},
     {"id":{"name":"Crack_Down_SN_spr","path":"sprites/Crack_Down_SN_spr/Crack_Down_SN_spr.yy",},"order":3,},
@@ -44,6 +45,7 @@
     {"id":{"name":"safeN_fallingHazardEdge_obj","path":"objects/safeN_fallingHazardEdge_obj/safeN_fallingHazardEdge_obj.yy",},"order":3,},
     {"id":{"name":"button_spr","path":"sprites/button_spr/button_spr.yy",},"order":2,},
     {"id":{"name":"key_rust4_obj","path":"objects/key_rust4_obj/key_rust4_obj.yy",},"order":5,},
+    {"id":{"name":"FallHazar_mid_spr_1","path":"sprites/FallHazar_mid_spr_1/FallHazar_mid_spr_1.yy",},"order":6,},
     {"id":{"name":"gameStart_obj","path":"objects/gameStart_obj/gameStart_obj.yy",},"order":1,},
     {"id":{"name":"key2_spr","path":"sprites/key2_spr/key2_spr.yy",},"order":1,},
     {"id":{"name":"wall_obj","path":"objects/wall_obj/wall_obj.yy",},"order":1,},
