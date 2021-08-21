@@ -40,6 +40,7 @@
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"door2_obj","path":"objects/door2_obj/door2_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"door3_obj","path":"objects/door3_obj/door3_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"door4_obj","path":"objects/door4_obj/door4_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "manager_spr",
-    "path": "sprites/manager_spr/manager_spr.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -22,6 +19,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

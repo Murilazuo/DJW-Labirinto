@@ -7,9 +7,9 @@ desenhar = true;
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 24C11B5C
-/// @DnDArgument : "font" "_8bit_Limit"
-/// @DnDSaveInfo : "font" "_8bit_Limit"
-draw_set_font(_8bit_Limit);
+/// @DnDArgument : "font" "Cthulhumbus"
+/// @DnDSaveInfo : "font" "Cthulhumbus"
+draw_set_font(Cthulhumbus);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
