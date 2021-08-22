@@ -1,34 +1,34 @@
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
 /// @DnDVersion : 1
 /// @DnDHash : 1E846AAC
-/// @DnDArgument : "x" "-320"
+/// @DnDArgument : "x" "-16"
 /// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "-180"
+/// @DnDArgument : "y" "32"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "sprite" "life_icon_spr"
+/// @DnDArgument : "sprite" "HealthIcon_spr"
 /// @DnDArgument : "number" "global.life"
-/// @DnDSaveInfo : "sprite" "life_icon_spr"
-var l1E846AAC_0 = sprite_get_width(life_icon_spr);
+/// @DnDSaveInfo : "sprite" "HealthIcon_spr"
+var l1E846AAC_0 = sprite_get_width(HealthIcon_spr);
 var l1E846AAC_1 = 0;
 for(var l1E846AAC_2 = global.life; l1E846AAC_2 > 0; --l1E846AAC_2) {
-	draw_sprite(life_icon_spr, 0, x + -320 + l1E846AAC_1, y + -180);
+	draw_sprite(HealthIcon_spr, 0, x + -16 + l1E846AAC_1, y + 32);
 	l1E846AAC_1 += l1E846AAC_0;
 }
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
 /// @DnDVersion : 1
 /// @DnDHash : 541B8B1E
-/// @DnDArgument : "x" "-320"
+/// @DnDArgument : "x" "-15"
 /// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "-120"
+/// @DnDArgument : "y" "42"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "sprite" "KeyRust_spr"
+/// @DnDArgument : "sprite" "IcongenericKey_spr"
 /// @DnDArgument : "number" "global.key_rust"
-/// @DnDSaveInfo : "sprite" "KeyRust_spr"
-var l541B8B1E_0 = sprite_get_width(KeyRust_spr);
+/// @DnDSaveInfo : "sprite" "IcongenericKey_spr"
+var l541B8B1E_0 = sprite_get_width(IcongenericKey_spr);
 var l541B8B1E_1 = 0;
 for(var l541B8B1E_2 = global.key_rust; l541B8B1E_2 > 0; --l541B8B1E_2) {
-	draw_sprite(KeyRust_spr, 0, x + -320 + l541B8B1E_1, y + -120);
+	draw_sprite(IcongenericKey_spr, 0, x + -15 + l541B8B1E_1, y + 42);
 	l541B8B1E_1 += l541B8B1E_0;
 }
 
@@ -43,13 +43,12 @@ if(global.key > 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 24092231
 	/// @DnDParent : 6A9BCEB7
-	/// @DnDArgument : "x" "-320"
+	/// @DnDArgument : "x" "-30"
 	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "-60"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "sprite" "key1_spr"
-	/// @DnDSaveInfo : "sprite" "key1_spr"
-	draw_sprite(key1_spr, 0, x + -320, y + -60);
+	/// @DnDArgument : "sprite" "IcongreenKey_spr"
+	/// @DnDSaveInfo : "sprite" "IcongreenKey_spr"
+	draw_sprite(IcongreenKey_spr, 0, x + -30, y + 0);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -64,13 +63,12 @@ if(global.key > 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 73F6B3CA
 	/// @DnDParent : 19C26E86
-	/// @DnDArgument : "x" "-295"
+	/// @DnDArgument : "x" "30"
 	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "-60"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "sprite" "key2_spr"
-	/// @DnDSaveInfo : "sprite" "key2_spr"
-	draw_sprite(key2_spr, 0, x + -295, y + -60);
+	/// @DnDArgument : "sprite" "IconyellowKey_spr"
+	/// @DnDSaveInfo : "sprite" "IconyellowKey_spr"
+	draw_sprite(IconyellowKey_spr, 0, x + 30, y + 0);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -85,13 +83,13 @@ if(global.key > 2)
 	/// @DnDVersion : 1
 	/// @DnDHash : 6C4FDDC4
 	/// @DnDParent : 06BE49CE
-	/// @DnDArgument : "x" "-270"
+	/// @DnDArgument : "x" "-20"
 	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "-60"
+	/// @DnDArgument : "y" "-30"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "sprite" "key3_spr"
-	/// @DnDSaveInfo : "sprite" "key3_spr"
-	draw_sprite(key3_spr, 0, x + -270, y + -60);
+	/// @DnDArgument : "sprite" "IconredKey_spr"
+	/// @DnDSaveInfo : "sprite" "IconredKey_spr"
+	draw_sprite(IconredKey_spr, 0, x + -20, y + -30);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -106,11 +104,11 @@ if(global.key > 3)
 	/// @DnDVersion : 1
 	/// @DnDHash : 258BF18B
 	/// @DnDParent : 78FA232C
-	/// @DnDArgument : "x" "-245"
+	/// @DnDArgument : "x" "20"
 	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "-60"
+	/// @DnDArgument : "y" "-30"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "sprite" "key4_spr"
-	/// @DnDSaveInfo : "sprite" "key4_spr"
-	draw_sprite(key4_spr, 0, x + -245, y + -60);
+	/// @DnDArgument : "sprite" "IconBlueKey_spr"
+	/// @DnDSaveInfo : "sprite" "IconBlueKey_spr"
+	draw_sprite(IconBlueKey_spr, 0, x + 20, y + -30);
 }
