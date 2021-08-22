@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 64,
-  "bbox_right": 567,
-  "bbox_top": 12,
-  "bbox_bottom": 191,
+  "bbox_left": 11,
+  "bbox_right": 308,
+  "bbox_top": 13,
+  "bbox_bottom": 75,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 576,
-  "height": 192,
+  "width": 320,
+  "height": 96,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c3e4b148-60f4-485b-b10a-64cb707b008c","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c3e4b148-60f4-485b-b10a-64cb707b008c","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"LayerId":{"name":"8b959c29-d145-4e7d-9b9b-9351983856e2","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"tilesetDecor_spr","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"resourceVersion":"1.0","name":"c3e4b148-60f4-485b-b10a-64cb707b008c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"21e4b1d8-ff4f-4019-9a6a-bda728a2783a","path":"sprites/HudBarWicon/HudBarWicon.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"21e4b1d8-ff4f-4019-9a6a-bda728a2783a","path":"sprites/HudBarWicon/HudBarWicon.yy",},"LayerId":{"name":"71e4b2e7-341e-4178-bdfb-7c1ee5da7647","path":"sprites/HudBarWicon/HudBarWicon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"HudBarWicon","path":"sprites/HudBarWicon/HudBarWicon.yy",},"resourceVersion":"1.0","name":"21e4b1d8-ff4f-4019-9a6a-bda728a2783a","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"tilesetDecor_spr","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},
+    "spriteId": {"name":"HudBarWicon","path":"sprites/HudBarWicon/HudBarWicon.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"4579ddc3-0593-43cf-83ca-fbd8e2841cc3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c3e4b148-60f4-485b-b10a-64cb707b008c","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0d777c98-1585-4b08-8ede-b5aeedfcfbd8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"21e4b1d8-ff4f-4019-9a6a-bda728a2783a","path":"sprites/HudBarWicon/HudBarWicon.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"tilesetDecor_spr","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},
+    "parent": {"name":"HudBarWicon","path":"sprites/HudBarWicon/HudBarWicon.yy",},
     "resourceVersion": "1.3",
-    "name": "tilesetDecor_spr",
+    "name": "HudBarWicon",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8b959c29-d145-4e7d-9b9b-9351983856e2","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"71e4b2e7-341e-4178-bdfb-7c1ee5da7647","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "tilesetDecor_spr",
+  "name": "HudBarWicon",
   "tags": [],
   "resourceType": "GMSprite",
 }

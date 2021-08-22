@@ -2,8 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 24782300
 /// @DnDArgument : "var" "global.key"
-/// @DnDArgument : "value" "3"
-if(global.key == 3)
+/// @DnDArgument : "value" "4"
+if(global.key == 4)
 {
 	/// @DnDAction : YoYo Games.Common.Set_Global
 	/// @DnDVersion : 1
