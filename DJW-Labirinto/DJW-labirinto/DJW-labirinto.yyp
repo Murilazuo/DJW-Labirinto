@@ -70,7 +70,6 @@
     {"id":{"name":"door2_obj","path":"objects/door2_obj/door2_obj.yy",},"order":1,},
     {"id":{"name":"door_side_spr","path":"sprites/door_side_spr/door_side_spr.yy",},"order":11,},
     {"id":{"name":"key_rust5_obj","path":"objects/key_rust5_obj/key_rust5_obj.yy",},"order":7,},
-    {"id":{"name":"Hub","path":"rooms/Hub/Hub.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -85,7 +84,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
-    {"roomId":{"name":"Hub","path":"rooms/Hub/Hub.yy",},},
+    {"roomId":{"name":"","path":"",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"","path":"",},},
