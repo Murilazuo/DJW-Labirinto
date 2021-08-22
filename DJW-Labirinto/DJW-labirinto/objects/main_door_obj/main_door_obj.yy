@@ -20,17 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  "eventList": [],
+  "properties": [
+    {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"room_id","tags":[],"resourceType":"GMObjectProperty",},
   ],
-  "properties": [],
   "overriddenProperties": [],
   "parent": {
     "name": "MainDoors",
     "path": "folders/Objects/MainDoors.yy",
   },
   "resourceVersion": "1.0",
-  "name": "door1_obj",
+  "name": "main_door_obj",
   "tags": [],
   "resourceType": "GMObject",
 }
