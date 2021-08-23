@@ -19,6 +19,8 @@
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"HUD","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":672.0,"resourceVersion":"1.0","name":"inst_396F43CE","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"enemy_simple_obj","path":"objects/enemy_simple_obj/enemy_simple_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":640.0,"resourceVersion":"1.0","name":"inst_7D172ADD","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"enemy_simple_obj","path":"objects/enemy_simple_obj/enemy_simple_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1120.0,"y":640.0,"resourceVersion":"1.0","name":"inst_3ED16A90","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"safeN_fallingHazard_obj","path":"objects/safeN_fallingHazard_obj/safeN_fallingHazard_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":512.0,"resourceVersion":"1.0","name":"inst_6EA30036","tags":[],"resourceType":"GMRInstance",},
@@ -151,6 +153,8 @@
     {"name":"inst_293C7931","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_2493EED1","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_706DE9","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_7D172ADD","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_3ED16A90","path":"rooms/Room3/Room3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

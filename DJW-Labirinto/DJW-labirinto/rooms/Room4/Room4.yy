@@ -17,6 +17,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":800.0,"y":864.0,"resourceVersion":"1.0","name":"inst_70B0797","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"HUDManager_obj","path":"objects/HUDManager_obj/HUDManager_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1440.0,"y":-32.0,"resourceVersion":"1.0","name":"inst_60979CA4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"HUDManager_obj","path":"objects/HUDManager_obj/HUDManager_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1376.0,"y":32.0,"resourceVersion":"1.0","name":"inst_3C895C3A","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"enemy_simple_obj","path":"objects/enemy_simple_obj/enemy_simple_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":768.0,"resourceVersion":"1.0","name":"inst_4D14EC31","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSet_decor","path":"tilesets/TileSet_decor/TileSet_decor.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":47,"SerialiseHeight":47,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -188,6 +189,7 @@
     {"name":"inst_261AE8F6","path":"rooms/Room4/Room4.yy",},
     {"name":"inst_3C895C3A","path":"rooms/Room4/Room4.yy",},
     {"name":"inst_448E129C","path":"rooms/Room4/Room4.yy",},
+    {"name":"inst_4D14EC31","path":"rooms/Room4/Room4.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
