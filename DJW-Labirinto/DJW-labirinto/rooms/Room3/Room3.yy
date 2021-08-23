@@ -24,6 +24,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"sencond_door_obj","path":"objects/sencond_door_obj/sencond_door_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1600.0,"y":1664.0,"resourceVersion":"1.0","name":"inst_6E8FDAC1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"sencond_doorFront_obj","path":"objects/sencond_doorFront_obj/sencond_doorFront_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1536.0,"y":1280.0,"resourceVersion":"1.0","name":"inst_7F7F166","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"sencond_door_obj","path":"objects/sencond_door_obj/sencond_door_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1088.0,"y":1024.0,"resourceVersion":"1.0","name":"inst_37C09C17","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"sencond_door_obj","path":"objects/sencond_door_obj/sencond_door_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":1600.0,"resourceVersion":"1.0","name":"inst_60C4FB62","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"safeN_fallingHazard_obj","path":"objects/safeN_fallingHazard_obj/safeN_fallingHazard_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":512.0,"resourceVersion":"1.0","name":"inst_6EA30036","tags":[],"resourceType":"GMRInstance",},
@@ -342,6 +343,7 @@
     {"name":"inst_6E8FDAC1","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_7F7F166","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_37C09C17","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_60C4FB62","path":"rooms/Room3/Room3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
