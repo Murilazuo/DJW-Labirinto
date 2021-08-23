@@ -20,7 +20,6 @@
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"key3_obj","path":"objects/key3_obj/key3_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":832.0,"resourceVersion":"1.0","name":"inst_1871A814","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"key_rust3_obj","path":"objects/key_rust3_obj/key_rust3_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1376.0,"y":672.0,"resourceVersion":"1.0","name":"inst_5267F658","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"key","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSet_GuideStructures","path":"tilesets/TileSet_GuideStructures/TileSet_GuideStructures.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":47,"SerialiseHeight":47,"TileSerialiseData":[
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -225,7 +224,6 @@
     {"name":"inst_426CC5BC","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_39E120D9","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_5257CDE9","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_5267F658","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_44A0404B","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_C31F2DA","path":"rooms/Room2/Room2.yy",},
   ],
@@ -235,7 +233,7 @@
     "inheritRoomSettings": false,
     "Width": 3000,
     "Height": 3000,
-    "persistent": false,
+    "persistent": true,
   },
   "viewSettings": {
     "inheritViewSettings": false,
