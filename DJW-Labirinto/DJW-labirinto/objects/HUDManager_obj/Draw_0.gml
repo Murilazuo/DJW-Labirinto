@@ -37,7 +37,7 @@ if(global.isFirstPickUp == true)
 {
 	if(alarm[0]<0)
 	{
-		alarm[0] = 180;
+		alarm[0] = 220;
 	}
 
 	draw_sprite(RoomTitleBg_spr, 0, x + 0, y + 160);
