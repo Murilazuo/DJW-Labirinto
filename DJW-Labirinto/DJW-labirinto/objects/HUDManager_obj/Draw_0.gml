@@ -32,6 +32,18 @@ for(var current_health = global.life; current_health> 0; --current_health) {
 	draw_position += health_width;
 }
 
+
+if(global.isFirstPickUp == true)
+{
+	if(alarm[0]<0)
+	{
+		alarm[0] = 180;
+	}
+
+	draw_sprite(RoomTitleBg_spr, 0, x + 0, y + 160);
+
+	draw_text(x + 0, y + 175, string("Segure <ESPACO> para ver seu inventario.") + "");
+}
 // show inventory
 if (keyboard_check(vk_space))
 {
@@ -63,17 +75,5 @@ if (keyboard_check(vk_space))
 				draw_sprite(IconBlueKey_spr, 0, x + 20, y + -30);
 		break;
 	}
-
-if(global.isFirstPickUp == true)
-{
-	if(alarm[0]<0)
-	{
-		alarm[0] = 180;
-	}
-
-	draw_sprite(RoomTitleBg_spr, 0, x + 0, y + 160);
-
-	draw_text(x + 0, y + 175, string("Segure <ESPACO> para ver seu inventario.") + "");
-}
 
 end;
