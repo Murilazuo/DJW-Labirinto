@@ -33,7 +33,7 @@
     "path": "folders/Objects/UI.yy",
   },
   "resourceVersion": "1.0",
-  "name": "credits_button_obj",
+  "name": "quit_button_obj",
   "tags": [],
   "resourceType": "GMObject",
 }
