@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "enemy_simple_spr",
-    "path": "sprites/enemy_simple_spr/enemy_simple_spr.yy",
+    "name": "TheDoomed_spr",
+    "path": "sprites/TheDoomed_spr/TheDoomed_spr.yy",
   },
   "solid": false,
   "visible": true,
