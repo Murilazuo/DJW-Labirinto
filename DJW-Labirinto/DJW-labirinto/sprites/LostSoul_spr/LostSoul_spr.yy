@@ -77,8 +77,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Enemys",
+    "path": "folders/Sprites/Enemys.yy",
   },
   "resourceVersion": "1.0",
   "name": "LostSoul_spr",
