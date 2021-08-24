@@ -3,7 +3,7 @@
     "name": "door_side_spr",
     "path": "sprites/door_side_spr/door_side_spr.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

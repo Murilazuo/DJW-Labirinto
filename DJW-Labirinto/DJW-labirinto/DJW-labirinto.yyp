@@ -43,6 +43,7 @@
     {"id":{"name":"safeN_fallingHazard_obj_1","path":"objects/safeN_fallingHazard_obj_1/safeN_fallingHazard_obj_1.yy",},"order":5,},
     {"id":{"name":"total_fallingHazard_obj","path":"objects/total_fallingHazard_obj/total_fallingHazard_obj.yy",},"order":4,},
     {"id":{"name":"button_obj","path":"objects/button_obj/button_obj.yy",},"order":0,},
+    {"id":{"name":"enemy_follow_spawn_obj","path":"objects/enemy_follow_spawn_obj/enemy_follow_spawn_obj.yy",},"order":3,},
     {"id":{"name":"Crack_Down_SN_spr","path":"sprites/Crack_Down_SN_spr/Crack_Down_SN_spr.yy",},"order":3,},
     {"id":{"name":"doorFront_spr","path":"sprites/doorFront_spr/doorFront_spr.yy",},"order":14,},
     {"id":{"name":"Crack_mid_SN_spr","path":"sprites/Crack_mid_SN_spr/Crack_mid_SN_spr.yy",},"order":0,},
