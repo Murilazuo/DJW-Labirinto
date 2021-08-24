@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "door_spr",
-    "path": "sprites/door_spr/door_spr.yy",
+    "name": "button_spr",
+    "path": "sprites/button_spr/button_spr.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,15 +20,19 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
-  "properties": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [
+    {"varType":2,"value":"Jogar","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"button_text","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Doors",
-    "path": "folders/Objects/Doors.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "main_door_obj",
+  "name": "playButton_obj",
   "tags": [],
   "resourceType": "GMObject",
 }

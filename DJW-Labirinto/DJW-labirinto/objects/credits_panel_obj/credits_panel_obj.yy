@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "button_spr",
-    "path": "sprites/button_spr/button_spr.yy",
+    "name": "panel_spr",
+    "path": "sprites/panel_spr/panel_spr.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "button_obj",
-    "path": "objects/button_obj/button_obj.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -24,7 +21,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -33,7 +32,7 @@
     "path": "folders/Objects/UI.yy",
   },
   "resourceVersion": "1.0",
-  "name": "credits_button_obj",
+  "name": "credits_panel_obj",
   "tags": [],
   "resourceType": "GMObject",
 }

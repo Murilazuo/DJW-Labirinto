@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "door_side_spr",
-    "path": "sprites/door_side_spr/door_side_spr.yy",
+    "name": "button_spr",
+    "path": "sprites/button_spr/button_spr.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "sencond_doorFront_obj",
-    "path": "objects/sencond_doorFront_obj/sencond_doorFront_obj.yy",
+    "name": "button_obj",
+    "path": "objects/button_obj/button_obj.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -23,15 +23,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Doors",
-    "path": "folders/Objects/Doors.yy",
+    "name": "UI",
+    "path": "folders/Objects/UI.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sencond_door_obj",
+  "name": "quit_button_obj",
   "tags": [],
   "resourceType": "GMObject",
 }
