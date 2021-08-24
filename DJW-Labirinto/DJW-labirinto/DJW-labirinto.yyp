@@ -51,7 +51,7 @@
     {"id":{"name":"doorFront_spr","path":"sprites/doorFront_spr/doorFront_spr.yy",},"order":2,},
     {"id":{"name":"Crack_mid_SN_spr","path":"sprites/Crack_mid_SN_spr/Crack_mid_SN_spr.yy",},"order":0,},
     {"id":{"name":"enemy_simple_obj","path":"objects/enemy_simple_obj/enemy_simple_obj.yy",},"order":0,},
-    {"id":{"name":"upgrade_invencilidade_obj","path":"objects/upgrade_invencilidade_obj/upgrade_invencilidade_obj.yy",},"order":1,},
+    {"id":{"name":"upgrade_invincible_obj","path":"objects/upgrade_invincible_obj/upgrade_invincible_obj.yy",},"order":1,},
     {"id":{"name":"safeN_fallingHazardEdge_obj","path":"objects/safeN_fallingHazardEdge_obj/safeN_fallingHazardEdge_obj.yy",},"order":3,},
     {"id":{"name":"credits_button_obj","path":"objects/credits_button_obj/credits_button_obj.yy",},"order":4,},
     {"id":{"name":"button_spr","path":"sprites/button_spr/button_spr.yy",},"order":0,},
