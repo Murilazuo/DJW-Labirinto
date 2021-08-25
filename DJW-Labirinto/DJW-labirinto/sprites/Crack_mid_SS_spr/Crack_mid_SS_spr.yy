@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Chaos que caem",
-    "path": "folders/Sprites/Chaos que caem.yy",
+    "name": "FallingHazards",
+    "path": "folders/Sprites/FallingHazards.yy",
   },
   "resourceVersion": "1.0",
   "name": "Crack_mid_SS_spr",

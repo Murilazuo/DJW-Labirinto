@@ -30,8 +30,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Manager",
-    "path": "folders/Objects/Manager.yy",
+    "name": "UI",
+    "path": "folders/Objects/UI.yy",
   },
   "resourceVersion": "1.0",
   "name": "cursor_settings_obj",
