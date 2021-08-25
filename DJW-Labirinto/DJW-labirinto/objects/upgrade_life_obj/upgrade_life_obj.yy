@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "HealthIcon_spr",
-    "path": "sprites/HealthIcon_spr/HealthIcon_spr.yy",
+    "name": "HealthPickUp_spr",
+    "path": "sprites/HealthPickUp_spr/HealthPickUp_spr.yy",
   },
   "solid": false,
   "visible": true,

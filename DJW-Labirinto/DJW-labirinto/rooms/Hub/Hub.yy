@@ -52,6 +52,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"key3_obj","path":"objects/key3_obj/key3_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1376.0,"y":864.0,"resourceVersion":"1.0","name":"inst_3DE291D8","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":1024.0,"resourceVersion":"1.0","name":"inst_4F8050FF","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"key_rust_obj","path":"objects/key_rust_obj/key_rust_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":576.0,"resourceVersion":"1.0","name":"inst_2A8F6119","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"enemy_shooter_obj","path":"objects/enemy_shooter_obj/enemy_shooter_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":1024.0,"resourceVersion":"1.0","name":"inst_75DB355C","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Objetos","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSet_decor","path":"tilesets/TileSet_decor/TileSet_decor.yy",},"x":512,"y":0,"tiles":{"SerialiseWidth":40,"SerialiseHeight":24,"TileSerialiseData":[
 2147483648,2147483648,0,0,0,0,0,0,0,0,0,0,0,0,2147483648,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -192,6 +193,7 @@
     {"name":"inst_door2","path":"rooms/Hub/Hub.yy",},
     {"name":"inst_door4","path":"rooms/Hub/Hub.yy",},
     {"name":"inst_2A8F6119","path":"rooms/Hub/Hub.yy",},
+    {"name":"inst_75DB355C","path":"rooms/Hub/Hub.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -1,5 +1,5 @@
 {
-  "bboxMode": 0,
+  "bboxMode": 1,
   "collisionKind": 1,
   "type": 0,
   "origin": 4,
@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 6,
-  "bbox_right": 57,
-  "bbox_top": 6,
-  "bbox_bottom": 57,
+  "bbox_left": 0,
+  "bbox_right": 63,
+  "bbox_top": 0,
+  "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3bd3bfdb-0b8a-469e-9a3e-84ddea1608a4","path":"sprites/shooterEnemy/shooterEnemy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3bd3bfdb-0b8a-469e-9a3e-84ddea1608a4","path":"sprites/shooterEnemy/shooterEnemy.yy",},"LayerId":{"name":"7cb094e1-19d4-4ada-867b-0bb2a200a887","path":"sprites/shooterEnemy/shooterEnemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"shooterEnemy","path":"sprites/shooterEnemy/shooterEnemy.yy",},"resourceVersion":"1.0","name":"3bd3bfdb-0b8a-469e-9a3e-84ddea1608a4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5a8b57d4-57d7-4aa9-8444-0f94798e05e7","path":"sprites/mainCharRework_spr/mainCharRework_spr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5a8b57d4-57d7-4aa9-8444-0f94798e05e7","path":"sprites/mainCharRework_spr/mainCharRework_spr.yy",},"LayerId":{"name":"64d6df5c-6d41-42ba-91df-62cdaf97aa77","path":"sprites/mainCharRework_spr/mainCharRework_spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"mainCharRework_spr","path":"sprites/mainCharRework_spr/mainCharRework_spr.yy",},"resourceVersion":"1.0","name":"5a8b57d4-57d7-4aa9-8444-0f94798e05e7","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"shooterEnemy","path":"sprites/shooterEnemy/shooterEnemy.yy",},
+    "spriteId": {"name":"mainCharRework_spr","path":"sprites/mainCharRework_spr/mainCharRework_spr.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a744d6b4-8969-4c34-a72d-3ddbbb0a2257","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3bd3bfdb-0b8a-469e-9a3e-84ddea1608a4","path":"sprites/shooterEnemy/shooterEnemy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8b76e82c-7dcb-44b2-ba9d-38aa89e6da41","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5a8b57d4-57d7-4aa9-8444-0f94798e05e7","path":"sprites/mainCharRework_spr/mainCharRework_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"shooterEnemy","path":"sprites/shooterEnemy/shooterEnemy.yy",},
+    "parent": {"name":"mainCharRework_spr","path":"sprites/mainCharRework_spr/mainCharRework_spr.yy",},
     "resourceVersion": "1.3",
-    "name": "shooterEnemy",
+    "name": "mainCharRework_spr",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7cb094e1-19d4-4ada-867b-0bb2a200a887","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"64d6df5c-6d41-42ba-91df-62cdaf97aa77","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "shooterEnemy",
+  "name": "mainCharRework_spr",
   "tags": [],
   "resourceType": "GMSprite",
 }

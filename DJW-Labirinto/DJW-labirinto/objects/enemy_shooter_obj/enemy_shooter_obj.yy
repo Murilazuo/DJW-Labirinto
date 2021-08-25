@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "shooterEnemy",
-    "path": "sprites/shooterEnemy/shooterEnemy.yy",
+    "name": "Gazer_spr",
+    "path": "sprites/Gazer_spr/Gazer_spr.yy",
   },
   "solid": false,
   "visible": true,

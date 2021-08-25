@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "projectile",
-    "path": "sprites/projectile/projectile.yy",
+    "name": "projectile_spr",
+    "path": "sprites/projectile_spr/projectile_spr.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "enemy_empty_obj",
+    "path": "objects/enemy_empty_obj/enemy_empty_obj.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
