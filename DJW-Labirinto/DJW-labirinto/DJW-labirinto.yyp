@@ -47,7 +47,6 @@
     {"id":{"name":"dark_spr","path":"sprites/dark_spr/dark_spr.yy",},"order":1,},
     {"id":{"name":"LostSoul_spr","path":"sprites/LostSoul_spr/LostSoul_spr.yy",},"order":1,},
     {"id":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"order":0,},
-    {"id":{"name":"safeN_fallingHazard_obj_1","path":"objects/safeN_fallingHazard_obj_1/safeN_fallingHazard_obj_1.yy",},"order":5,},
     {"id":{"name":"cursor_settings_obj","path":"objects/cursor_settings_obj/cursor_settings_obj.yy",},"order":4,},
     {"id":{"name":"total_fallingHazard_obj","path":"objects/total_fallingHazard_obj/total_fallingHazard_obj.yy",},"order":4,},
     {"id":{"name":"button_obj","path":"objects/button_obj/button_obj.yy",},"order":0,},
