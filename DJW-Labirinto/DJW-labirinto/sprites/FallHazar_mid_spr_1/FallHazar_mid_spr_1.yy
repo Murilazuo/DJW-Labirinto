@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "FallingHazards",
-    "path": "folders/Sprites/FallingHazards.yy",
+    "name": "Chaos que caem",
+    "path": "folders/Sprites/Chaos que caem.yy",
   },
   "resourceVersion": "1.0",
   "name": "FallHazar_mid_spr_1",
