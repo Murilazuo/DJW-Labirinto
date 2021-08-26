@@ -1,8 +1,8 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 6D6BB4FE
-/// @DnDArgument : "code" "if(global.life == 0)$(13_10){$(13_10)	exit;	$(13_10)}"
-if(global.life == 0)
+/// @DnDHash : 595DEEC6
+/// @DnDArgument : "code" "if(stop_player == true)$(13_10){$(13_10)	exit;	$(13_10)}"
+if(stop_player == true)
 {
 	exit;	
 }

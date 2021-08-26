@@ -5,6 +5,14 @@
 /// @DnDArgument : "op" "2"
 if(global.key_rust > 0)
 {
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 61A96A84
+	/// @DnDParent : 19E3434D
+	/// @DnDArgument : "soundid" "Sound_porta"
+	/// @DnDSaveInfo : "soundid" "Sound_porta"
+	audio_play_sound(Sound_porta, 0, 0);
+
 	/// @DnDAction : YoYo Games.Common.Set_Global
 	/// @DnDVersion : 1
 	/// @DnDHash : 11E5EA62
