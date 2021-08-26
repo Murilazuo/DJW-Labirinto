@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "_upgrade_spr",
-    "path": "sprites/_upgrade_spr/_upgrade_spr.yy",
+    "name": "InvincibilityPickUp_spr",
+    "path": "sprites/InvincibilityPickUp_spr/InvincibilityPickUp_spr.yy",
   },
   "solid": false,
   "visible": true,

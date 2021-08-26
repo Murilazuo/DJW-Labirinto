@@ -82,7 +82,6 @@
     {"id":{"name":"key2_spr","path":"sprites/key2_spr/key2_spr.yy",},"order":1,},
     {"id":{"name":"wall_obj","path":"objects/wall_obj/wall_obj.yy",},"order":1,},
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},"order":2,},
-    {"id":{"name":"_upgrade_spr","path":"sprites/_upgrade_spr/_upgrade_spr.yy",},"order":40,},
     {"id":{"name":"FallHazar_mid_spr","path":"sprites/FallHazar_mid_spr/FallHazar_mid_spr.yy",},"order":6,},
     {"id":{"name":"manager_spr","path":"sprites/manager_spr/manager_spr.yy",},"order":3,},
     {"id":{"name":"TileSet_structures","path":"tilesets/TileSet_structures/TileSet_structures.yy",},"order":2,},
