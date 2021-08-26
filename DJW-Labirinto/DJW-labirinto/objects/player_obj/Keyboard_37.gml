@@ -19,14 +19,6 @@ if(place_snapped(32,32))
 	/// @DnDArgument : "direction" "180"
 	direction = 180;
 
-	/// @DnDAction : YoYo Games.Audio.Play_Audio
-	/// @DnDVersion : 1
-	/// @DnDHash : 0B7977C1
-	/// @DnDParent : 336B2F11
-	/// @DnDArgument : "soundid" "caminhando_sound"
-	/// @DnDSaveInfo : "soundid" "caminhando_sound"
-	audio_play_sound(caminhando_sound, 0, 0);
-
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
 	/// @DnDHash : 2E1B01B9
