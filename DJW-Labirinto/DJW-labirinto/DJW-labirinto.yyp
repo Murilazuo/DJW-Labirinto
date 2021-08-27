@@ -23,6 +23,7 @@
     {"id":{"name":"wall_spr","path":"sprites/wall_spr/wall_spr.yy",},"order":0,},
     {"id":{"name":"key1_obj","path":"objects/key1_obj/key1_obj.yy",},"order":0,},
     {"id":{"name":"mainChar_spr","path":"sprites/mainChar_spr/mainChar_spr.yy",},"order":0,},
+    {"id":{"name":"checkPointMarker_obj","path":"objects/checkPointMarker_obj/checkPointMarker_obj.yy",},"order":4,},
     {"id":{"name":"walkUpwards_spr","path":"sprites/walkUpwards_spr/walkUpwards_spr.yy",},"order":2,},
     {"id":{"name":"Sound_pegandokey","path":"sounds/Sound_pegandokey/Sound_pegandokey.yy",},"order":6,},
     {"id":{"name":"Crack_mid_SS_spr","path":"sprites/Crack_mid_SS_spr/Crack_mid_SS_spr.yy",},"order":4,},
