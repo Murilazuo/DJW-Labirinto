@@ -52,6 +52,7 @@
     {"id":{"name":"LostSoul_spr","path":"sprites/LostSoul_spr/LostSoul_spr.yy",},"order":1,},
     {"id":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"order":0,},
     {"id":{"name":"cursor_settings_obj","path":"objects/cursor_settings_obj/cursor_settings_obj.yy",},"order":4,},
+    {"id":{"name":"mainChar_dead_spr","path":"sprites/mainChar_dead_spr/mainChar_dead_spr.yy",},"order":3,},
     {"id":{"name":"total_fallingHazard_obj","path":"objects/total_fallingHazard_obj/total_fallingHazard_obj.yy",},"order":4,},
     {"id":{"name":"Sound_porta","path":"sounds/Sound_porta/Sound_porta.yy",},"order":9,},
     {"id":{"name":"InvincibilityPickUp_spr","path":"sprites/InvincibilityPickUp_spr/InvincibilityPickUp_spr.yy",},"order":45,},
