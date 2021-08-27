@@ -57,6 +57,7 @@
     {"id":{"name":"total_fallingHazard_obj","path":"objects/total_fallingHazard_obj/total_fallingHazard_obj.yy",},"order":4,},
     {"id":{"name":"Sound_porta","path":"sounds/Sound_porta/Sound_porta.yy",},"order":9,},
     {"id":{"name":"InvincibilityPickUp_spr","path":"sprites/InvincibilityPickUp_spr/InvincibilityPickUp_spr.yy",},"order":45,},
+    {"id":{"name":"CheckPoint_spr","path":"sprites/CheckPoint_spr/CheckPoint_spr.yy",},"order":7,},
     {"id":{"name":"Sound_risadainimigo","path":"sounds/Sound_risadainimigo/Sound_risadainimigo.yy",},"order":8,},
     {"id":{"name":"walkSideWays_spr","path":"sprites/walkSideWays_spr/walkSideWays_spr.yy",},"order":1,},
     {"id":{"name":"button_obj","path":"objects/button_obj/button_obj.yy",},"order":0,},
