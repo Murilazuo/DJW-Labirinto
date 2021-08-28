@@ -33,7 +33,7 @@
     "path": "folders/Objects/UI.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Menu_button_obj",
+  "name": "play_button_obj23",
   "tags": [],
   "resourceType": "GMObject",
 }
