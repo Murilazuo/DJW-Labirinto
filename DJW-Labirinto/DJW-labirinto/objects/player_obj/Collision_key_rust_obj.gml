@@ -5,3 +5,10 @@
 global.key_rust ++;
 audio_play_sound(Sound_pegandokey,0,0);
 with(other) instance_destroy();
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 6CC8E2E8
+/// @DnDArgument : "soundid" "Sound_pegandokey"
+/// @DnDSaveInfo : "soundid" "Sound_pegandokey"
+audio_play_sound(Sound_pegandokey, 0, 0);

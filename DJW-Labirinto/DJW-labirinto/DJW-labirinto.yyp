@@ -73,6 +73,7 @@
     {"id":{"name":"upgrade_invincible_obj","path":"objects/upgrade_invincible_obj/upgrade_invincible_obj.yy",},"order":1,},
     {"id":{"name":"safeN_fallingHazardEdge_obj","path":"objects/safeN_fallingHazardEdge_obj/safeN_fallingHazardEdge_obj.yy",},"order":3,},
     {"id":{"name":"caminhando_sound","path":"sounds/caminhando_sound/caminhando_sound.yy",},"order":0,},
+    {"id":{"name":"Object36","path":"objects/Object36/Object36.yy",},"order":9,},
     {"id":{"name":"credits_button_obj","path":"objects/credits_button_obj/credits_button_obj.yy",},"order":4,},
     {"id":{"name":"button_spr","path":"sprites/button_spr/button_spr.yy",},"order":0,},
     {"id":{"name":"tilesetDecor_spr","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"order":36,},

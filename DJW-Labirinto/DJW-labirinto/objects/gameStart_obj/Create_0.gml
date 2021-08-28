@@ -25,3 +25,10 @@ global.drawTitle_Room3 = false;
 global.drawTitle_Room4 = false;
 
 audio_play_sound(Sound_menu,0,1);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 490D12D6
+/// @DnDArgument : "soundid" "Sound_menu"
+/// @DnDSaveInfo : "soundid" "Sound_menu"
+audio_play_sound(Sound_menu, 0, 0);

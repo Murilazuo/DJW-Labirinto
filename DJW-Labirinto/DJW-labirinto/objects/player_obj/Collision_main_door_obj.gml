@@ -46,3 +46,10 @@ switch(other.id)
 		room_goto(Hub);
 		break;
 }
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 4BA19535
+/// @DnDArgument : "soundid" "Sound_porta"
+/// @DnDSaveInfo : "soundid" "Sound_porta"
+audio_play_sound(Sound_porta, 0, 0);
