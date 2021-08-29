@@ -112,6 +112,7 @@
     {"id":{"name":"door_spr","path":"sprites/door_spr/door_spr.yy",},"order":1,},
     {"id":{"name":"Sound_adc","path":"sounds/Sound_adc/Sound_adc.yy",},"order":10,},
     {"id":{"name":"KeyRust_spr","path":"sprites/KeyRust_spr/KeyRust_spr.yy",},"order":12,},
+    {"id":{"name":"textBg_spr","path":"sprites/textBg_spr/textBg_spr.yy",},"order":9,},
     {"id":{"name":"enemy_empty_obj","path":"objects/enemy_empty_obj/enemy_empty_obj.yy",},"order":1,},
     {"id":{"name":"door_side_spr","path":"sprites/door_side_spr/door_side_spr.yy",},"order":0,},
     {"id":{"name":"tilesetDecor_spr","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"order":14,},

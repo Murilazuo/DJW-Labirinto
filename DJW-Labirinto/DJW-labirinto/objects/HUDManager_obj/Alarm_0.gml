@@ -1,12 +1,5 @@
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
-/// @DnDHash : 6BA33FFB
-/// @DnDArgument : "value" "false"
-/// @DnDArgument : "var" "isFirstPickUp"
-global.isFirstPickUp = false;
-
-/// @DnDAction : YoYo Games.Common.Set_Global
-/// @DnDVersion : 1
 /// @DnDHash : 2D3AA159
 /// @DnDArgument : "value" "false"
 /// @DnDArgument : "var" "global.drawTitle_Room1"
