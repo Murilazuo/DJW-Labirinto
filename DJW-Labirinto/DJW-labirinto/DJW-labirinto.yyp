@@ -36,6 +36,7 @@
     {"id":{"name":"TileSet_decor","path":"tilesets/TileSet_decor/TileSet_decor.yy",},"order":3,},
     {"id":{"name":"key2_obj","path":"objects/key2_obj/key2_obj.yy",},"order":3,},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},"order":7,},
+    {"id":{"name":"empty_spr","path":"sprites/empty_spr/empty_spr.yy",},"order":15,},
     {"id":{"name":"enemy_projectile_obj","path":"objects/enemy_projectile_obj/enemy_projectile_obj.yy",},"order":4,},
     {"id":{"name":"Final","path":"rooms/Final/Final.yy",},"order":9,},
     {"id":{"name":"Sound_salaescura","path":"sounds/Sound_salaescura/Sound_salaescura.yy",},"order":7,},
