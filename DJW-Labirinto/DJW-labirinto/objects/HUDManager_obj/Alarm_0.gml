@@ -18,10 +18,3 @@ global.drawTitle_Room2 = false;
 /// @DnDArgument : "value" "false"
 /// @DnDArgument : "var" "global.drawTitle_Room3"
 global.drawTitle_Room3 = false;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 02A14327
-/// @DnDArgument : "expr" "false"
-/// @DnDArgument : "var" "artifactView"
-artifactView = false;
