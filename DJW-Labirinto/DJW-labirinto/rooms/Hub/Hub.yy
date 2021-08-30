@@ -49,10 +49,6 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":1024.0,"resourceVersion":"1.0","name":"inst_4F8050FF","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"key_rust_obj","path":"objects/key_rust_obj/key_rust_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1216.0,"y":640.0,"resourceVersion":"1.0","name":"inst_2A8F6119","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"crucifix_obj","path":"objects/crucifix_obj/crucifix_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1696.0,"y":800.0,"resourceVersion":"1.0","name":"inst_7AA5E89E","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"upgrade_invincible_obj","path":"objects/upgrade_invincible_obj/upgrade_invincible_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1280.0,"y":1024.0,"resourceVersion":"1.0","name":"inst_10CBEFC","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[
-            {"propertyId":{"name":"direction_start","path":"objects/enemy_simple_obj/enemy_simple_obj.yy",},"objectId":{"name":"enemy_simple_obj","path":"objects/enemy_simple_obj/enemy_simple_obj.yy",},"value":"90","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-          ],"isDnd":false,"objectId":{"name":"enemy_simple_obj","path":"objects/enemy_simple_obj/enemy_simple_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1344.0,"y":992.0,"resourceVersion":"1.0","name":"inst_2B2CEE05","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Objetos","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSet_decor","path":"tilesets/TileSet_decor/TileSet_decor.yy",},"x":512,"y":0,"tiles":{"SerialiseWidth":40,"SerialiseHeight":24,"TileSerialiseData":[
 2147483648,2147483648,0,0,0,0,0,0,0,0,0,0,0,0,2147483648,0,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -184,8 +180,6 @@
     {"name":"inst_door4","path":"rooms/Hub/Hub.yy",},
     {"name":"inst_2A8F6119","path":"rooms/Hub/Hub.yy",},
     {"name":"inst_7AA5E89E","path":"rooms/Hub/Hub.yy",},
-    {"name":"inst_10CBEFC","path":"rooms/Hub/Hub.yy",},
-    {"name":"inst_2B2CEE05","path":"rooms/Hub/Hub.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
