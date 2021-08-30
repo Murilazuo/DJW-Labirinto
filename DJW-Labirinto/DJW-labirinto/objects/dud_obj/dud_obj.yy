@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "manager_spr",
-    "path": "sprites/manager_spr/manager_spr.yy",
+    "name": "empty_spr",
+    "path": "sprites/empty_spr/empty_spr.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,16 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":4,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Manager",
-    "path": "folders/Objects/Manager.yy",
+    "name": "Keys",
+    "path": "folders/Objects/Keys.yy",
   },
   "resourceVersion": "1.0",
-  "name": "roomManager_obj",
+  "name": "dud_obj",
   "tags": [],
   "resourceType": "GMObject",
 }

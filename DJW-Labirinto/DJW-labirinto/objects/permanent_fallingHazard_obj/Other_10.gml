@@ -12,3 +12,10 @@ image_index = 0;
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "hasCollapsed"
 hasCollapsed = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0303D6AD
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "startedFalling"
+startedFalling = false;

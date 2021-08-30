@@ -5,14 +5,17 @@
     {"id":{"name":"key3_spr","path":"sprites/key3_spr/key3_spr.yy",},"order":2,},
     {"id":{"name":"projectile_spr","path":"sprites/projectile_spr/projectile_spr.yy",},"order":4,},
     {"id":{"name":"TheDoomed_spr","path":"sprites/TheDoomed_spr/TheDoomed_spr.yy",},"order":2,},
+    {"id":{"name":"dud_obj","path":"objects/dud_obj/dud_obj.yy",},"order":10,},
     {"id":{"name":"mirror_spr","path":"sprites/mirror_spr/mirror_spr.yy",},"order":5,},
     {"id":{"name":"Cthulhumbus","path":"fonts/Cthulhumbus/Cthulhumbus.yy",},"order":3,},
     {"id":{"name":"roomManager_obj","path":"objects/roomManager_obj/roomManager_obj.yy",},"order":2,},
     {"id":{"name":"sencond_door_obj","path":"objects/sencond_door_obj/sencond_door_obj.yy",},"order":1,},
+    {"id":{"name":"snd_stepu","path":"sounds/snd_stepu/snd_stepu.yy",},"order":14,},
     {"id":{"name":"_8bit_Limit","path":"fonts/_8bit_Limit/_8bit_Limit.yy",},"order":1,},
     {"id":{"name":"Gazer_spr","path":"sprites/Gazer_spr/Gazer_spr.yy",},"order":3,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":5,},
     {"id":{"name":"upgrade_life_obj","path":"objects/upgrade_life_obj/upgrade_life_obj.yy",},"order":0,},
+    {"id":{"name":"caveAmb_snd","path":"sounds/caveAmb_snd/caveAmb_snd.yy",},"order":16,},
     {"id":{"name":"HUDManager_obj","path":"objects/HUDManager_obj/HUDManager_obj.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
     {"id":{"name":"Crack_void_spr","path":"sprites/Crack_void_spr/Crack_void_spr.yy",},"order":5,},
@@ -76,6 +79,7 @@
     {"id":{"name":"enemy_follow_spawn_obj","path":"objects/enemy_follow_spawn_obj/enemy_follow_spawn_obj.yy",},"order":3,},
     {"id":{"name":"Crack_Down_SN_spr","path":"sprites/Crack_Down_SN_spr/Crack_Down_SN_spr.yy",},"order":0,},
     {"id":{"name":"doorFront_spr","path":"sprites/doorFront_spr/doorFront_spr.yy",},"order":2,},
+    {"id":{"name":"snd_gate","path":"sounds/snd_gate/snd_gate.yy",},"order":15,},
     {"id":{"name":"snd_step","path":"sounds/snd_step/snd_step.yy",},"order":12,},
     {"id":{"name":"Crack_mid_SN_spr","path":"sprites/Crack_mid_SN_spr/Crack_mid_SN_spr.yy",},"order":3,},
     {"id":{"name":"doll_spr","path":"sprites/doll_spr/doll_spr.yy",},"order":3,},
@@ -120,7 +124,6 @@
     {"id":{"name":"tilesetDecor_spr","path":"sprites/tilesetDecor_spr/tilesetDecor_spr.yy",},"order":14,},
     {"id":{"name":"artifactPickup_snd","path":"sounds/artifactPickup_snd/artifactPickup_snd.yy",},"order":11,},
     {"id":{"name":"enemy_follow_obj","path":"objects/enemy_follow_obj/enemy_follow_obj.yy",},"order":2,},
-    {"id":{"name":"Hub","path":"rooms/Hub/Hub.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -135,7 +138,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
-    {"roomId":{"name":"Hub","path":"rooms/Hub/Hub.yy",},},
+    {"roomId":{"name":"","path":"",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"","path":"",},},
@@ -180,7 +183,9 @@
   "TextureGroups": [
     {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"CopyToMask":0,"filePath":"datafiles","resourceVersion":"1.0","name":"193688__toam__ghost-whispering01a-forward.flac","resourceType":"GMIncludedFile",},
+  ],
   "MetaData": {
     "IDEVersion": "2.3.3.574",
   },
