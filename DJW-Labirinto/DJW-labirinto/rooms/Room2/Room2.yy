@@ -90,6 +90,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"key_rust_obj","path":"objects/key_rust_obj/key_rust_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":864.0,"y":800.0,"resourceVersion":"1.0","name":"inst_52F416A4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"upgrade_invincible_obj","path":"objects/upgrade_invincible_obj/upgrade_invincible_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1120.0,"y":672.0,"resourceVersion":"1.0","name":"inst_F9935E4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"skull_obj","path":"objects/skull_obj/skull_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1536.0,"y":1280.0,"resourceVersion":"1.0","name":"inst_1D39E6A7","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"key_rust_obj","path":"objects/key_rust_obj/key_rust_obj.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":864.0,"y":320.0,"resourceVersion":"1.0","name":"inst_18E576D2","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":true,"objectId":{"name":"checkPointMarker_obj","path":"objects/checkPointMarker_obj/checkPointMarker_obj.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":736.0,"y":736.0,"resourceVersion":"1.0","name":"inst_75AB9C24","tags":[],"resourceType":"GMRInstance",},
@@ -369,6 +370,7 @@
     {"name":"inst_543B2404","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_52BD568A","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_26B23BC4","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_18E576D2","path":"rooms/Room2/Room2.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
